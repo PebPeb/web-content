@@ -9,7 +9,9 @@ But I am going to write a little so that I can look at how the website is buildi
 
 ![Local Image]({attach}/repo/assets/gigachad.png)
 
-<img class="center" src="{attach}/repo/assets/gigachad.png" style="max-width: 400px;" ></img>
+<div class="center">
+  <img src="{attach}/repo/assets/gigachad.png" style="max-width: 400px;" ></img>
+</div>
 
 ``` python
 from typing import Iterator
