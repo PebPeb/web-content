@@ -11,12 +11,6 @@ But I am going to write a little so that I can look at how the website is buildi
 
 <img class="center" src="{attach}/repo/assets/gigachad.png" style="max-width: 400px;" ></img>
 
-| Test   | 1       |
-|:------:|:-------:|
-| Test 2 | 2       |
-
-
-
 ``` python
 from typing import Iterator
 
