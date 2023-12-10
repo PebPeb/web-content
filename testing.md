@@ -10,11 +10,10 @@ But I am going to write a little so that I can look at how the website is buildi
 ![Local Image]({attach}/repo/assets/gigachad.png)
 
 
-+--------+---------+
 | Test   | 1       |
-+--------+---------+
+|:------:|:-------:|
 | Test 2 | 2       |
-+--------+---------+
+
 
 
 ``` python
