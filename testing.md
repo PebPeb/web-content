@@ -28,6 +28,17 @@ result = sum(Math.fib(42))
 print("The answer is {}".format(result))
 ```
 
+``` verilog
+module test ();
+  assign x = 1'b0;
+
+  always @(posedge clk) begin
+    if (x) begin
+    end
+  end
+endmodule
+```
+
 This is an `inline test`.
 
 
