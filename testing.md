@@ -42,6 +42,6 @@ endmodule
 
 This is an `inline test`.
 
-  Testing the indented style
+> Testing the indented style
 
 
