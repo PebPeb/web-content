@@ -2,17 +2,16 @@ Title: Building BryceKeen.com v1.0.0
 Date: 2023-12-10 14:32
 Category: Project
 
-Have you ever started a project not knowing what in the world you were doing? Well not having a single bit of web development experience I decided to do just that. 
-
-
-Though I would not say I have a burning passion to become a web developer now, but do plan on continuing to add to this site. I have come across a new found respect (and a little annoyance) for the realm of web development.
-
-designed to tackle a task that turned into a significantly more complected than I thought (arguably my own doing).
-
-I have learned much more about web development than I really have cared to. Though I have come out out of this project with more respect for web development.
+Just over a year ago I started this project not knowing a single bit of web development. From not knowing anything to now making my first official release (a little arbitrary since I am the only one working on it) it is quite a big milestone for me. To be honest it was a good experience though web development is not for me. A made a lot of mistakes and found my self learning a lot unexpected engineering lessons along the way. One of the biggest things I have taken away from this stage of the project is my new found respect and a little annoyance for web developers.
 
 
 ## BryceKeen.com
+
+I know what you are thinking "Cool an image of the website that I am currently on". Though it could not be I don't what this site could look like a year from now thats why I added it. 
+
+<img class="center" src="{attach}/repo/assets/BryceKeenWebsite.png" style="max-width: 90%;" ></img>
+
+
 
 
 
