@@ -26,33 +26,6 @@ Webpack was initially added in as a bundler for the React components. At the tim
 
 It was definitely a different challenge for me taking on some web development. Though it is not perfect and I probably learned more of how not to design a website. I am proud of what I was able to accomplish.
 
-in the world of web development. 
-
-
-This over one year of 
-
-not knowing what in the world I was doing... Presto I have a website.
-
-With over one year of periodic work I am happy with the current state of this website. Even with its long list of problems
-
-over a year of periodic work I am happy with what I have been able to make. Though far from perfect and I don't think I will be becoming a web developer anytime soon 
-
-I have learned a lot of how not to design a website.
-
-has was started a little over a year ago and has grown now into what it is. Over this past year I have not been solely working on this project  
-
-
-
-This website is my first entry into web development. Definitly not a passion though necisary for understanding how to get information out in this era.
-
-This project has been quite a learning experience for me 
-
-Some of the lessons I have learned
-
-## 
-
-
-
 ## Lessons Learned
 
 In the future I 
