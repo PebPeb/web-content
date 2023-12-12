@@ -10,24 +10,17 @@ This website was made from scratch as a project aimed for hosting my different p
 
 <img class="center" src="{attach}/repo/assets/BryceKeenWebsite.png" style="max-width: 90%;" ></img>
 
+The original blueprint for this site was to take advantage of Wordpress. Though after beginning to use it at the time I found it to be clunky and not giving me the control I was hoping for. Later in time I have come to the view that decision as a mistake. From that conclusion it was decided to work on building it from scratch. The website know at its completions is powered by four major tools in addition to your basic HTML, CSS, and Javascript. 
 
+1. React
+2. Webpack
+3. Pelican
+4. Jinja2
 
+The addition of React was originally to provide a more object oriented style of programming. At the 
 
+React has one fatal flaw its search engine optimization (SEO). There are ways around this with setting up things server side though trying to avoid complexity 
 
-**Outline**
-1. Website
-2. Tools used
-   1. React
-
-    <img class="center" src="{attach}/repo/assets/react_navbar.png" style="max-width: 90%;" ></img>
-
-
-   2. Pelican
-      1. Python
-      2. Pygments
-      3. Jinja
-   3. Webpack
-3. 
 
 
 
@@ -59,12 +52,6 @@ Some of the lessons I have learned
 
 ## 
 
-React
-Pelican
-Python
-Pygments
-Jinja2
-Webpack
 
 
 ## Lessons Learned
@@ -72,6 +59,10 @@ Webpack
 In the future I 
 
 - Not the simplest solution (maybe because a lack of knowledge)
+This was not the simplest solution. I tried taking short cuts 
+
+- Don't reinvent the wheel
+
 - Try to stick to one technology (Python like templates or Django)
 - Wordpress for more professional use 
 
@@ -79,9 +70,9 @@ In the future I
 
 As this site is personal to me I find it important to list my purpose and what I hope to accomplish though it.
 
-1. Challenge myself and others to learn new things.
-2. Improve my ability to communicate as an educator.
-3. Challenge my creativity as an engineer and a presenter.
-4. Demonstrate **God** through all my work.
+- Challenge myself and others to learn new things.
+- Improve my ability to communicate as an educator.
+- Challenge my creativity as an engineer and a presenter.
+- Demonstrate **God** through all my work.
 
 Proverbs 14:23 - "In all toil there is profit, but mere talk tends only to poverty"
