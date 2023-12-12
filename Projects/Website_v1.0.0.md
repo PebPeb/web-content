@@ -10,22 +10,21 @@ This website was made from scratch as a project aimed for hosting my different p
 
 <img class="center" src="{attach}/repo/assets/BryceKeenWebsite.png" style="max-width: 90%;" ></img>
 
-The original blueprint for this site was to take advantage of Wordpress. Though after beginning to use it at the time I found it to be clunky and not giving me the control I was hoping for. Later in time I have come to the view that decision as a mistake. From that conclusion it was decided to work on building it from scratch. The website know at its completions is powered by four major tools in addition to your basic HTML, CSS, and Javascript. 
+Through a variety of decisions has grown to be powered by four major tools in addition to basic HTML, CSS, and Javascript.
 
 1. React
 2. Webpack
 3. Pelican
 4. Jinja2
 
-The addition of React was originally to provide a more object oriented style of programming. At the 
+The addition of React was originally to provide a more object oriented style of programming. You can see some of the big components done with react such as the Navbar and the Home page. Though with react comes the issue of search engine optimization (SEO). Having everything in javascript would require server side rendering if there was any hope for search engines to accurately index the site. This problem was not known until many of the majority of the components were developed so was not solved until later.
 
-React has one fatal flaw its search engine optimization (SEO). There are ways around this with setting up things server side though trying to avoid complexity 
-
-
+Webpack was initially added in as a bundler for the React components. At the time I did not have a full understanding of both React and Webpack and began to include more components into Webpack other than just react. Later as the system grew and more tools were added making the system more complex this became more of an hinderance than a help. 
 
 
 
-It was definitely a exciting challenge and I am proud of the outcome 
+
+It was definitely a different challenge for me taking on some web development. Though it is not perfect and I probably learned more of how not to design a website. I am proud of what I was able to accomplish.
 
 in the world of web development. 
 
@@ -57,7 +56,7 @@ Some of the lessons I have learned
 ## Lessons Learned
 
 In the future I 
-
+- Planning
 - Not the simplest solution (maybe because a lack of knowledge)
 This was not the simplest solution. I tried taking short cuts 
 
