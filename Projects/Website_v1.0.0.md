@@ -1,13 +1,12 @@
-Title: Building BryceKeen.com v1.0.0
+Title: BryceKeen.com (How Not to Build a Website)
 Date: 2023-12-10 14:32
 Category: Project
 
-Just over a year ago I started this project not knowing a single bit of web development. From not knowing anything to now making my first official release (a little arbitrary since I am the only one working on it) it is quite a big milestone for me. To be honest it was a good experience though web development is not for me. A made a lot of mistakes and found my self learning a lot unexpected engineering lessons along the way. One of the biggest things I have taken away from this stage of the project is my new found respect and a little annoyance for web developers.
+Just over a year ago I started this project not knowing a single thing about web development. Going from not knowing a thing to now making my first official release (a little arbitrary since I am the only one working on it) it has been quite the big milestone for me. Though to be honest, web development is definitely not my forte. I have made my fair share of mistakes, and learned some important engineering techniques the hard way and will definitely be carrying them over to my next projects. One other thing that I have gained from this project is a new found respect for web developers and touch of annoyance to. As for me though, I think I will be sticking to working with low level systems.
 
+## BryceKeen.com v1.0.0
 
-## BryceKeen.com
-
-I know what you are thinking "Cool an image of the website that I am currently on". Though it could not be I don't what this site could look like a year from now thats why I added it. 
+This website was made from scratch as a project aimed for hosting my different projects and things that are interesting to me. The tools to accomplish this were selected primarily out of ignorance of the realm of web development. Though each tool was added gradually at the time to solve a specific problem. The end result was an unnecessarily complex system. Now presenting [BryceKeen.com](https://brycekeen.com).
 
 <img class="center" src="{attach}/repo/assets/BryceKeenWebsite.png" style="max-width: 90%;" ></img>
 
@@ -76,3 +75,13 @@ In the future I
 - Try to stick to one technology (Python like templates or Django)
 - Wordpress for more professional use 
 
+## Purpose
+
+As this site is personal to me I find it important to list my purpose and what I hope to accomplish though it.
+
+1. Challenge myself and others to learn new things.
+2. Improve my ability to communicate as an educator.
+3. Challenge my creativity as an engineer and a presenter.
+4. Demonstrate **God** through all my work.
+
+Proverbs 14:23 - "In all toil there is profit, but mere talk tends only to poverty"
