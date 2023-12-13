@@ -21,22 +21,16 @@ The addition of React was originally to provide a more object oriented style of 
 
 Webpack was initially added in as a bundler for the React components. At the time I did not have a full understanding of both React and Webpack and began to include more components into Webpack other than just react. Later as the system grew and more tools were added making the system more complex this became more of an hinderance than a help. 
 
-
-
+Pelican was the last tool to be added to the site. With Pelican heavily relying on Jinja2 templates many more additions were added to support just Jinja2 templates outside of Pelican. In the end this solved the issue of SEO as the content of the page would be generated statically by Pelican.
 
 It was definitely a different challenge for me taking on some web development. Though it is not perfect and I probably learned more of how not to design a website. I am proud of what I was able to accomplish.
 
 ## Lessons Learned
 
-In the future I 
-- Planning
-- Not the simplest solution (maybe because a lack of knowledge)
-This was not the simplest solution. I tried taking short cuts 
-
-- Don't reinvent the wheel
-
-- Try to stick to one technology (Python like templates or Django)
-- Wordpress for more professional use 
+- "Is this the simplest solution?" - Asking that question more often maybe would have saved a lot of time and headaches. Though a lot of these issues may have stemmed from my lack of knowledge.
+- Planning - Having a better road map initial would probably have solved a lot of the problems encountered earlier on. Along with eliminating some of the unnecessary complexity introduced into the system.
+- Tools - Sticking to as few technologies as possible and only adding to the system if necessary. This was the main source of complexity. If I stuck to Python libs like Django, Pelican and Jinja2 it would probably would have reduced complexity.
+- Probably just going to stick to Wordpress for any professional use in the future (no need to reinvent the wheel).
 
 ## Purpose
 
