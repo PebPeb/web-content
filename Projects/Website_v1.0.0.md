@@ -6,7 +6,7 @@ Just over a year ago I started this project not knowing a single thing about web
 
 ## BryceKeen.com v1.0.0
 
-This website was made from scratch as a project aimed for hosting my different projects and things that are interesting to me. The tools to accomplish this were selected primarily out of ignorance of the realm of web development. Though each tool was added gradually at the time to solve a specific problem. The end result was an unnecessarily complex system. View the code [here on Github](https://github.com/PebPeb/my-website). Now with no further to do I present to you [BryceKeen.com](https://brycekeen.com).
+This website was made from scratch as a project aimed for hosting my different projects and things that are interesting to me. The tools to accomplish this were selected primarily out of ignorance of the realm of web development. Though each tool was added gradually at the time to solve a specific problem. The end result was an unnecessarily complex system. You can view the code [here on Github](https://github.com/PebPeb/my-website). Now with no further to do I present to you [BryceKeen.com](https://brycekeen.com).
 
 <img class="center" src="{attach}/repo/assets/BryceKeenWebsite.png" style="max-width: 90%;" ></img>
 
