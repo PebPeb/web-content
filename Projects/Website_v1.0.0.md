@@ -10,7 +10,7 @@ This website was made from scratch as a project aimed for hosting my different p
 
 <img class="center" src="{attach}/repo/assets/BryceKeenWebsite.png" style="max-width: 90%;" ></img>
 
-Through a variety of decisions has grown to be powered by four major tools in addition to basic HTML, CSS, and Javascript.
+Through a variety of decisions this website has grown to be powered by four major tools in addition to basic HTML, CSS, and Javascript.
 
 1. React
 2. Webpack
