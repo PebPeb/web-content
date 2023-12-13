@@ -32,12 +32,12 @@ It was definitely a different challenge for me taking on some web development. T
 
 - "Is this the simplest solution?" - Asking that question more often maybe would have saved a lot of time and headaches. Though a lot of these issues may have stemmed from my lack of knowledge.
 - Planning - Having a better road map initial would probably have solved a lot of the problems encountered earlier on. Along with eliminating some of the unnecessary complexity introduced into the system.
-- Tools - Sticking to as few technologies as possible and only adding to the system if necessary. This was the main source of complexity. If I stuck to Python libs like Django, Pelican and Jinja2 it would probably would have reduced complexity.
-- Probably just going to stick to Wordpress for any professional use in the future (no need to reinvent the wheel).
+- Tools - Sticking to as few technologies as possible and only adding new tools if necessary. This ended up being the main source of complexity. If I stuck to Python libs like Django, Pelican and Jinja2 it would probably would have reduced complexity.
+- In the future I should just use Wordpress (no need to reinvent the wheel).
 
 ## Purpose
 
-As this site is personal to me I find it important to list my purpose and what I hope to accomplish though it.
+But why do all this work? Learn all these lessons and go through so much trouble. Well there are a few things I hope to accomplish from doing all of this.
 
 - Challenge myself and others to learn new things.
 - Improve my ability to communicate as an educator.
