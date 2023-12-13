@@ -10,7 +10,7 @@ This website was made from scratch as a project aimed for hosting my different p
 
 <img class="center" src="{attach}/repo/assets/BryceKeenWebsite.png" style="max-width: 90%;" ></img>
 
-Through a variety of decisions this website has grown to be powered by five major tools in addition to basic HTML, CSS, and Javascript.
+This website started out originally on Wordpress though through a variety of decisions that quickly changed. From those decisions this website has grown to be powered by five major tools in addition to basic HTML, CSS, and Javascript.
 
 1. React
 2. Webpack
@@ -22,7 +22,7 @@ The addition of [React](https://react.dev/) was originally to provide a more obj
 
 [Webpack](https://webpack.js.org/) was initially added in as a bundler for the React components. At the time I did not have a full understanding of both React and Webpack and began to include more components into Webpack other than just react. Later as the system grew and more tools were added making the system more complex this became more of an hinderance than a help. With [nodejs](https://nodejs.org/en) being Webpack's primary compiler this made my site heavily dependent on it, for both development and deployment. 
 
-<img class="center" src="{attach}/repo/assets/pelican.png" style="max-width: 70%;" ></img>
+<img class="center" src="{attach}/repo/assets/pelican.png" style="max-width: 60%;" ></img>
 
 As for [Pelican](https://getpelican.com/), it was the last tool to be added to the site. Pelican takes advantage of [Jinja2](https://jinja.palletsprojects.com/en/3.1.x/) templates and I was able to leverage them for use outside of Pelican as well. Looking back this probably should have been my primary approach since I ended up going with more of a static site. This also ended up solving my SOE problem. With all the content of the site being static there was no need for a server side rendering of the site.
 
