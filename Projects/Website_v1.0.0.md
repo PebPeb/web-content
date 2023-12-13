@@ -37,7 +37,7 @@ It was definitely a different challenge for me taking on some web development. T
 
 ## Purpose
 
-But why do all this work? Learn all these lessons and go through so much trouble. Well there are a few things I hope to accomplish from doing all of this.
+But why do all this work to build a website? Learn all these lessons and go through so much trouble. Well there are a few things I hope to accomplish from doing all of this.
 
 - Challenge myself and others to learn new things.
 - Improve my ability to communicate as an educator.
