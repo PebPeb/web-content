@@ -10,18 +10,21 @@ This website was made from scratch as a project aimed for hosting my different p
 
 <img class="center" src="{attach}/repo/assets/BryceKeenWebsite.png" style="max-width: 90%;" ></img>
 
-Through a variety of decisions this website has grown to be powered by four major tools in addition to basic HTML, CSS, and Javascript.
+Through a variety of decisions this website has grown to be powered by five major tools in addition to basic HTML, CSS, and Javascript.
 
 1. React
 2. Webpack
-3. Pelican
-4. Jinja2
+3. Nodejs
+4. Pelican
+5. Jinja2
 
-The addition of React was originally to provide a more object oriented style of programming. You can see some of the big components done with react such as the Navbar and the Home page. Though with react comes the issue of search engine optimization (SEO). Having everything in javascript would require server side rendering if there was any hope for search engines to accurately index the site. This problem was not known until many of the majority of the components were developed so was not solved until later.
+The addition of [React](https://react.dev/) was originally to provide a more object oriented style of programming. You can see some of the big components done with react such as the Navbar and the Home page. Though with react comes the issue of search engine optimization (SEO). Having everything in javascript would require server side rendering if there was any hope for search engines to accurately index the site. This problem was not known until many of the major components were developed, so it was not solved until later.
 
-Webpack was initially added in as a bundler for the React components. At the time I did not have a full understanding of both React and Webpack and began to include more components into Webpack other than just react. Later as the system grew and more tools were added making the system more complex this became more of an hinderance than a help. 
+[Webpack](https://webpack.js.org/) was initially added in as a bundler for the React components. At the time I did not have a full understanding of both React and Webpack and began to include more components into Webpack other than just react. Later as the system grew and more tools were added making the system more complex this became more of an hinderance than a help. With [nodejs](https://nodejs.org/en) being Webpack's primary compiler this made my site heavily dependent on it, for both development and deployment. 
 
-Pelican was the last tool to be added to the site. With Pelican heavily relying on Jinja2 templates many more additions were added to support just Jinja2 templates outside of Pelican. In the end this solved the issue of SEO as the content of the page would be generated statically by Pelican.
+<img class="center" src="{attach}/repo/assets/pelican.png" style="max-width: 70%;" ></img>
+
+As for [Pelican](https://getpelican.com/), it was the last tool to be added to the site. Pelican takes advantage of [Jinja2](https://jinja.palletsprojects.com/en/3.1.x/) templates and I was able to leverage them for use outside of Pelican as well. Looking back this probably should have been my primary approach since I ended up going with more of a static site. This also ended up solving my SOE problem. With all the content of the site being static there was no need for a server side rendering of the site.
 
 It was definitely a different challenge for me taking on some web development. Though it is not perfect and I probably learned more of how not to design a website. I am proud of what I was able to accomplish.
 
