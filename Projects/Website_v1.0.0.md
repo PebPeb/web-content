@@ -1,4 +1,4 @@
-Title: BryceKeen.com (How Not to Build a Website)
+Title: BryceKeen.com
 Date: 2023-12-10 14:32
 Category: Project
 
