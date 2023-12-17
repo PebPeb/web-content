@@ -20,24 +20,24 @@ This website started out originally on Wordpress, though through a variety of de
 
 The addition of [React](https://React.dev/) was originally to provide a more object oriented style of programming. You can see some of the big components done with React such as the navigation bar (*navbar*) and the *home* page. Though with React comes the issue of search engine optimization (SEO). Having everything in Javascript requires server side rendering, if there was any hope for search engines to index the site. This problem was not known until many of the major components were developed. Therefore, it was not solved until later.
 
-[Webpack](https://webpack.js.org/) was initially added in as a bundler for the React components. At the time I did not have a full understanding of both React and Webpack and began to include more components into Webpack than React. Later as the system grew and more tools were added Webpack started to became more of an hinderance than a help. With [Nodejs](https://Nodejs.org/en) being Webpack's primary compiler this made the site heavily dependent on it, for both development and deployment. 
+[Webpack](https://webpack.js.org/) was initially added in as a bundler for the React components. At the time I did not have a full understanding of both React and Webpack and began to include more components into Webpack than React. Later as the system grew and more tools were added, Webpack started to became more of an hinderance than a help. With [Nodejs](https://Nodejs.org/en) being Webpack's primary compiler this made the site heavily dependent on it, for both development and deployment. 
 
 <img class="center" src="{attach}/repo/assets/pelican.png" style="max-width: 60%;" ></img>
 
-As for [Pelican](https://getpelican.com/), it was the last tool to be added to the site. Pelican takes advantage of [Jinja2](https://jinja.palletsprojects.com/en/3.1.x/) templates and I was able to leverage these templates for more than just in Pelican. Looking back this probably should have been my primary approach since I ended up going with more of a static site. Moving to a static site also ended up solving my SOE problem. With all the content of the site being static there was no need for server side rendering.
+As for [Pelican](https://getpelican.com/), it was the last tool to be added to the site. Pelican takes advantage of [Jinja2](https://jinja.palletsprojects.com/en/3.1.x/) templates and I was able to leverage these templates outside of Pelican. Looking back this probably should have been my primary approach since I ended up going with more of a static site. Moving to a static site also ended up solving my SOE problem. With all the content of the site being static there was no need for server side rendering.
 
-It was definitely a different challenge for me taking on some web development. Though it is not perfect and I probably learned more of how not to design a website. I am proud of what I was able to accomplish.
+It was definitely a different challenge for me taking on some web development. Though it is not perfect, and I probably learned more of how *not* to design a website; I am proud of what I was able to accomplish.
 
 ## Lessons Learned
 
-- "Is this the simplest solution?" - Asking that question more often maybe would have saved me some time and headaches. Though a lot of these issues may have stemmed from my lack of knowledge.
-- Planning - Having a better road map initial would probably have solved a lot of the problems encountered earlier on. Along with eliminating some of the unnecessary complexity introduced into the system.
-- Tools - Sticking to as few technologies as possible and only adding new tools if necessary. This ended up being the main source of complexity. If I stuck to Python libraries like Django, Pelican and Jinja2 it would probably would have reduced complexity.
+- "Did I find the simplest solution?" - Asking that question more along the way would have saved me some time and headaches. However, a lot of these issues may have stemmed from my lack of knowledge.
+- Planning - Having a better road map initial would have solved a lot of the problems I encountered earlier on. It would have also helped with eliminating some of the unnecessary complexity introduced into the system.
+- Tools - Sticking to as few technologies as possible and only adding new tools if necessary; this ended up being the main source of complexity. If I stuck to Python libraries like Django, Pelican and Jinja2 it would probably would have reduced complexity.
 - In the future I should just use Wordpress (no need to reinvent the wheel).
 
 ## Purpose
 
-But why do all this work to build a website, learn all these lessons, and go through so much trouble? Well there are a few things I hope to accomplish from doing all of this.
+But why do all this work to build a website, learn all these lessons, and go through so much trouble? Well there are a few overarching goals I hoped to accomplish from doing all of this.
 
 - Challenge myself and others to learn new things.
 - Improve my ability to communicate as an educator.
